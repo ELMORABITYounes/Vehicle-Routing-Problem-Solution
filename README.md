@@ -1,4 +1,4 @@
-# VehicleRoutingProject
+# Vehicle-Routing-Problem-Solution
 this is a solution for vehicle routing problem with time windows constraints
 
 the project takes inputs from [solomon instances](https://www.sintef.no/projectweb/top/vrptw/solomon-benchmark) in `doc/` folder.
